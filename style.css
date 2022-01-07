@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    font-family: 'poppins', sans-serif;
+}
+section {
+    display: flex;
+}
+h1{
+    font-size:50px;
+
+}
+#oll {
+    color: #10c942;
+}
+p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+}
+#name{
+color: #46916a;}
+.first{
+    font-family: Bebas Neue;
+font-style: normal;
+font-weight: 500;
+font-size: 67px;
+line-height: 88px;
+
+color: #363958;
+    }
+
+.half-width{
+    width: 34%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 3%;
+    padding-bottom: inherit;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 100px;
+
+    color: #363958;
+    }
+.half-width img {
+    width: 100%;
+}
+
+.First-section{
+    padding: 68px;
+    
+}
+
+.button{
+    text-decoration: none;
+    background-color:#131111;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 700;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+
+.mission-area{
+    text-align: center;
+    margin-right: -203px;
+    color: red;
+}
+
+
+.missions {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    min-height: 70px;
+    align-items: left;
+    flex-wrap: wrap;
+    background-color: #1c2a35;
+  }
+  
+  .mission-one{
+    background-color:#4F9DA6;
+    text-align: center;
+    flex: 1 1 25px;
+    min-height: 84px;
+    margin: 197px 53px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1), 0px 20px 20px rgba(0, 0, 0, 0.1);
+  }
+  .mission-two{
+    background-color:#FF5959;
+    text-align: center;
+    flex: 1 1 25px;
+    min-height: 84px;
+    margin: 197px 53px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1), 0px 20px 20px rgba(0, 0, 0, 0.1);
+  }
+  .mission-three{
+    background-color:#FFF4D6;
+    text-align: center;
+    flex: 1 1 25px;
+    min-height: 84px;
+    margin: 197px 53px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1), 0px 20px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .missions img {
+    max-width: 44%;
+    margin: 21px;
+    margin-left: -123px;
+  }
+  .mission h4,
+  .mission p {
+    padding: 1px;
+    line-height: 1.8;
+  }
+  .footer {
+    width: 100%;
+    background-color: #17171a;
+    padding-bottom: 10px;
+    padding-top: 53px;
+    padding-bottom: 49px;
+    margin-left: 0px;
+    margin-right: -20px;
+    text-align: center;
+    color: white;
+}
